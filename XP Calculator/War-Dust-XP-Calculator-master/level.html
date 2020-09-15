@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>War Dust Level Calculator</title>
+    <script type="text/javascript">
+        function xpForLevel(level) {
+            if (level != 0) {
+                return ((8000 * Math.round(Math.pow(1.08, level))) + (1000 * level));
+            }
+            else {
+                return 4000;
+            }
+        }
+        function xpToLevel(level) {
+            var total = 0;
+            for (var i = 0; i < level; i++) {
+                total += xpForLevel(i);
+            }
+            return total;
+        }
+        function xpForLevelPrint(level=0) {
+            document.getElementById("xp-for-level-level").innerHTML = level;
+            document.getElementById("xp-for-level-xp").innerHTML = xpForLevel(level);
+        }
+        function xpToLevelPrint(level=0) {
+            document.getElementById("xp-to-level-level").innerHTML = level;
+            console.log(document.getElementById("xp-to-level-level"))
+            document.getElementById("xp-to-level-xp").innerHTML = xpToLevel(level);
+        }
+    </script>
+</head>
+<body>
+    <p>Type here to get amount of XP total to get to specified level</p>
+    <input oninput="xpToLevelPrint(this.value)" type="number">
+    <p>XP for level <span id="xp-to-level-level">1</span> is <span id="xp-to-level-xp">4000</span></p>
+    <p>Type here to get amount of XP to pass specified level</p>
+    <input oninput="xpForLevelPrint(this.value)" type="number">
+    <p>XP to pass level <span id="xp-for-level-level">0</span> is <span id="xp-for-level-xp">4000</span></p>
+</body>
+</html>
