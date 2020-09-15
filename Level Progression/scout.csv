@@ -1,0 +1,113 @@
+Level, Item, Type (if applicable), Weapon(if applicable), XP to pass level, XP to achieve level
+0,  AP85, , , 4000, 0
+0,  AWP, , , 4000, 0
+0,  Knife, , , 4000, 0
+1,  Silencer,  Accessory,  AP85, 9000, 4000
+2,  Forest,  Skin,  AWP, 10000, 13000
+3,  Forest,  Skin,  AP85, 11000, 23000
+4,  Winter,  Skin,  AWP, 12000, 34000
+5,  MP5, , , 13000, 46000
+6,  Silencer,  Accessory,  MP5, 14000, 59000
+7,  Flash Suppressor,  Accessory,  AWP, 15000, 73000
+7,  Hollow point,  Ammunitions,  AWP, 15000, 73000
+8,  Winter,  Skin,  AP85, 16000, 88000
+9,  Forest,  Skin,  MP5, 17000, 104000
+10,  SCAR-H, , , 26000, 121000
+10,  4X Scope,  Sight,  SCAR-H, 26000, 121000
+11,  12X Scope,  Sight,  SCAR-H, 27000, 147000
+12,  Desert,  Skin,  AWP, 28000, 174000
+12,  Hollow point,  Ammunitions,  AP85, 28000, 174000
+13,  Flash Suppressor,  Accessory,  AP85, 29000, 202000
+14,  PKA-S Sight,  Sight,  MP5, 30000, 231000
+15,  FragGrenade, , , 39000, 261000
+16,  Forest,  Skin,  SCAR-H, 40000, 300000
+17,  Forest numeric,  Skin,  AWP, 41000, 340000
+18,  Desert,  Skin,  AP85, 42000, 381000
+19,  Winter,  Skin,  MP5, 51000, 423000
+20,  CX8, , , 52000, 474000
+21,  Silencer,  Accessory,  CX8, 61000, 526000
+22,  Silencer,  Accessory,  SCAR-H, 62000, 587000
+23,  Forest,  Skin,  CX8, 63000, 649000
+24,  Silencer,  Accessory,  AWP, 72000, 712000
+25,  Forest numeric,  Skin,  AP85, 73000, 784000
+26,  ACOG Sight,  Sight,  MP5, 82000, 857000
+26,  Hollow point,  Ammunitions,  MP5, 82000, 857000
+27,  PKA-S Sight,  Sight,  SCAR-H, 83000, 939000
+28,  Holographic sight,  Sight,  CX8, 92000, 1022000
+29,  Mountain,  Skin,  AWP, 101000, 1114000
+30,  P90, , , 110000, 1215000
+31,  Silencer,  Accessory,  P90, 111000, 1325000
+32,  Mountain,  Skin,  AP85, 120000, 1436000
+33,  Reflex sight,  Sight,  MP5, 129000, 1556000
+34,  Desert,  Skin,  SCAR-H, 138000, 1685000
+35,  Winter,  Skin,  CX8, 147000, 1823000
+36,  Forest,  Skin,  P90, 156000, 1970000
+37,  ACOG Sight,  Sight,  AWP, 173000, 2126000
+38,  Holographic sight,  Sight,  AP85, 182000, 2299000
+39,  Desert,  Skin,  MP5, 199000, 2481000
+40,  C1911, , , 208000, 2680000
+41,  Silencer,  Accessory,  C1911, 225000, 2888000
+42,  Forest numeric,  Skin,  SCAR-H, 242000, 3113000
+42,  Hollow point,  Ammunitions,  M9, 242000, 3113000
+43,  ACOG Sight,  Sight,  CX8, 259000, 3355000
+44,  Holographic sight,  Sight,  P90, 276000, 3614000
+45,  Forest,  Skin,  C1911, 293000, 3890000
+46,  Holographic sight,  Sight,  AWP, 318000, 4183000
+47,  ACOG Sight,  Sight,  AP85, 343000, 4501000
+48,  Forest numeric,  Skin,  MP5, 368000, 4844000
+49,  Mountain,  Skin,  SCAR-H, 393000, 5212000
+49,  High accuracy,  Ammunitions,  MP5, 393000, 5212000
+50,  Mk 12, , , 418000, 5605000
+51,  Forest,  Skin,  Mk 12, 451000, 6023000
+51,  Armor piercing,  Ammunitions,  AWP, 451000, 6023000
+52,  PKA-S Sight,  Sight,  CX8, 484000, 6474000
+53,  Winter,  Skin,  P90, 525000, 6958000
+54,  Winter,  Skin,  C1911, 558000, 7483000
+55,  Silencer,  Accessory,  Mk 12, 599000, 8041000
+56,  Mountain,  Skin,  MP5, 648000, 8640000
+56,  Hollow point,  Ammunitions,  CX8, 648000, 8640000
+57,  Holographic sight,  Sight,  SCAR-H, 697000, 9288000
+58,  Desert,  Skin,  CX8, 746000, 9985000
+58,  Hollow point,  Ammunitions,  Mk 12, 746000, 9985000
+59,  ACOG Sight,  Sight,  P90, 803000, 10731000
+60,  Eder22, , , 868000, 11534000
+61,  Silencer,  Accessory,  Eder22, 933000, 12402000
+62,  PKA-S Sight,  Sight,  C1911, 1006000, 13335000
+63,  ACOG Sight,  Sight,  Mk 12, 1079000, 14341000
+64,  Forest,  Skin,  Eder22, 1160000, 15420000
+65,  Forest numeric,  Skin,  CX8, 1249000, 16580000
+66,  PKA-S Sight,  Sight,  P90, 1346000, 17829000
+66,  Hollow point,  Ammunitions,  C1911, 1346000, 17829000
+67,  Desert,  Skin,  C1911, 1451000, 19175000
+67,  Hollow point,  Ammunitions,  P90, 1451000, 19175000
+68,  Winter,  Skin,  Mk 12, 1564000, 20626000
+69,  Winter,  Skin,  Eder22, 1685000, 22190000
+70,  Desert,  Skin,  P90, 1814000, 23875000
+71,  Forest numeric,  Skin,  C1911, 1959000, 25689000
+71,  Armor piercing,  Ammunitions,  MP5, 1959000, 25689000
+72,  4X Scope,  Sight,  Mk 12, 2104000, 27648000
+73,  Flash Suppressor,  Accessory,  Eder22, 2273000, 29752000
+73,  Armor piercing,  Ammunitions,  AP85, 2273000, 29752000
+74,  Forest numeric,  Skin,  P90, 2450000, 32025000
+74,  Hollow point,  Ammunitions,  Eder22, 2450000, 32025000
+75,  Mountain,  Skin,  C1911, 2643000, 34475000
+76,  Desert,  Skin,  Mk 12, 2844000, 37118000
+77,  Desert,  Skin,  Eder22, 3069000, 39962000
+78,  Mountain,  Skin,  P90, 3310000, 43031000
+79,  Holographic sight,  Sight,  C1911, 3567000, 46341000
+80,  Forest numeric,  Skin,  Mk 12, 3848000, 49908000
+81,  Forest numeric,  Skin,  Eder22, 4153000, 53756000
+82,  Mountain,  Skin,  Mk 12, 4482000, 57909000
+83,  Mountain,  Skin,  Eder22, 4835000, 62391000
+84,  Holographic sight,  Sight,  Mk 12, 5220000, 67226000
+85,  Holographic sight,  Sight,  Eder22, 5629000, 72446000
+86,  Mountain,  Skin,  CX8, 6070000, 78075000
+86,  High accuracy,  Ammunitions,  CX8, 6070000, 78075000
+87,  High accuracy,  Ammunitions,  P90, 6551000, 84145000
+90,  Armor piercing,  Ammunitions,  M9, 8234000, 105401000
+91,  Armor piercing,  Ammunitions,  CX8, 8891000, 113635000
+92,  Armor piercing,  Ammunitions,  P90, 9596000, 122526000
+93,  Armor piercing,  Ammunitions,  C1911, 10357000, 132122000
+98,  Armor piercing,  Ammunitions,  Eder22, 15178000, 192821000
+99,  High accuracy,  Ammunitions,  Mk 12, 16387000, 207999000
+100,  Armor piercing,  Ammunitions,  Mk 12, 17692000, 224386000

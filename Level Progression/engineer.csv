@@ -1,0 +1,68 @@
+Level, Item, Type (if applicable), Weapon(if applicable), XP to pass level, XP to achieve level
+0,  Stinger, , , 4000, 0
+0,  AP85, , , 4000, 0
+0,  Knife, , , 4000, 0
+1,  Forest,  Skin,  AP85, 9000, 4000
+2,  Forest,  Skin,  Stinger, 10000, 13000
+3,  Flash Suppressor,  Accessory,  AP85, 11000, 23000
+4,  Winter,  Skin,  AP85, 12000, 34000
+5,  Eder22, , , 13000, 46000
+6,  Desert,  Skin,  AP85, 14000, 59000
+8,  Winter,  Skin,  Stinger, 16000, 88000
+9,  Silencer,  Accessory,  AP85, 17000, 104000
+10,  Desert,  Skin,  Stinger, 26000, 121000
+11,  Forest,  Skin,  Eder22, 27000, 147000
+12,  Flash Suppressor,  Accessory,  Eder22, 28000, 174000
+12,  Hollow point,  Ammunitions,  AP85, 28000, 174000
+13,  Forest numeric,  Skin,  AP85, 29000, 202000
+14,  Forest numeric,  Skin,  Stinger, 30000, 231000
+15,  RPG, , , 39000, 261000
+16,  Holographic sight,  Sight,  AP85, 40000, 300000
+17,  Winter,  Skin,  Eder22, 41000, 340000
+18,  Mountain,  Skin,  Stinger, 42000, 381000
+19,  Desert,  Skin,  Eder22, 51000, 423000
+20,  M9, , , 52000, 474000
+21,  Forest,  Skin,  M9, 61000, 526000
+22,  Mountain,  Skin,  AP85, 62000, 587000
+23,  Silencer,  Accessory,  Eder22, 63000, 649000
+24,  Flash Suppressor,  Accessory,  M9, 72000, 712000
+25,  ACOG sight,  Sight,  AP85, 73000, 784000
+26,  Forest numeric,  Skin,  Eder22, 82000, 857000
+27,  Winter,  Skin,  M9, 83000, 939000
+28,  Holographic sight,  Sight,  Eder22, 92000, 1022000
+29,  Desert,  Skin,  M9, 101000, 1114000
+30,  C1911, , , 110000, 1215000
+31,  Forest,  Skin,  C1911, 111000, 1325000
+32,  Mountain,  Skin,  Eder22, 120000, 1436000
+33,  Silencer,  Accessory,  M9, 129000, 1556000
+34,  Flash Suppressor,  Accessory,  C1911, 138000, 1685000
+35,  ACOG sight,  Sight,  Eder22, 147000, 1823000
+36,  Forest numeric,  Skin,  M9, 156000, 1970000
+37,  Winter,  Skin,  C1911, 173000, 2126000
+38,  Holographic sight,  Sight,  M9, 182000, 2299000
+38,  Hollow point,  Ammunitions,  Eder22, 182000, 2299000
+39,  Desert,  Skin,  C1911, 199000, 2481000
+40,  M590, , , 208000, 2680000
+41,  Forest,  Skin,  M590, 225000, 2888000
+42,  Mountain,  Skin,  M9, 242000, 3113000
+43,  Silencer,  Accessory,  C1911, 259000, 3355000
+44,  Winter,  Skin,  M590, 276000, 3614000
+45,  ACOG sight,  Sight,  M9, 293000, 3890000
+46,  Forest numeric,  Skin,  C1911, 318000, 4183000
+47,  Desert,  Skin,  M590, 343000, 4501000
+48,  Holographic sight,  Sight,  C1911, 368000, 4844000
+49,  Forest numeric,  Skin,  M590, 393000, 5212000
+50,  GrenadeLauncher, , , 418000, 5605000
+51,  Holographic sight,  Sight,  M590, 451000, 6023000
+52,  Mountain,  Skin,  M590, 484000, 6474000
+53,  ACOG sight,  Sight,  C1911, 525000, 6958000
+54,  ACOG sight,  Sight,  M590, 558000, 7483000
+55,  Flash Suppressor,  Accessory,  M590, 599000, 8041000
+56,  Silencer,  Accessory,  M590, 648000, 8640000
+57,  Mountain,  Skin,  C1911, 697000, 9288000
+57,  Armor piercing,  Ammunitions,  AP85, 697000, 9288000
+59,  Hollow point,  Ammunitions,  M9, 803000, 10731000
+60,  Hollow point,  Ammunitions,  C1911, 868000, 11534000
+61,  Armor piercing,  Ammunitions,  Eder22, 933000, 12402000
+64,  Armor piercing,  Ammunitions,  M9, 1160000, 15420000
+65,  Armor piercing,  Ammunitions,  C1911, 1249000, 16580000
